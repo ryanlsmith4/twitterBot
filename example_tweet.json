@@ -1,0 +1,143 @@
+{
+  "created_at": "Wed Jul 29 19:41:33 +0000 2020",
+  "id": 1288560313407885300,
+  "id_str": "1288560313407885315",
+  "text": "@tartanglitter @ElainMcD https://t.co/IbeXErjiwF",
+  "display_text_range": [24, 24],
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1288559020945678300,
+  "in_reply_to_status_id_str": "1288559020945678337",
+  "in_reply_to_user_id": 1124731112847286300,
+  "in_reply_to_user_id_str": "1124731112847286272",
+  "in_reply_to_screen_name": "tartanglitter",
+  "user": {
+    "id": 415741281,
+    "id_str": "415741281",
+    "name": "🍀Mick 🏆x9️⃣🍀",
+    "screen_name": "heid_the_baw_",
+    "location": "Adeje , Spain",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 7628,
+    "friends_count": 8330,
+    "listed_count": 10,
+    "favourites_count": 12457,
+    "statuses_count": 63832,
+    "created_at": "Fri Nov 18 19:04:56 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1145324513497899008/egUr4B5t_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145324513497899008/egUr4B5t_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/415741281/1472403336",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tartanglitter",
+        "name": "The girl in the tartan mask xx 💕",
+        "id": 1124731112847286300,
+        "id_str": "1124731112847286272",
+        "indices": [0, 14]
+      },
+      {
+        "screen_name": "ElainMcD",
+        "name": "Elain",
+        "id": 69911596,
+        "id_str": "69911596",
+        "indices": [15, 24]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1288560306449416200,
+        "id_str": "1288560306449416192",
+        "indices": [25, 48],
+        "description": "dave grohl hair flip GIF",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EeHixYmWAAAcNFn.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeHixYmWAAAcNFn.jpg",
+        "url": "https://t.co/IbeXErjiwF",
+        "display_url": "pic.twitter.com/IbeXErjiwF",
+        "expanded_url": "https://twitter.com/heid_the_baw_/status/1288560313407885315/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": { "w": 150, "h": 150, "resize": "crop" },
+          "medium": { "w": 200, "h": 164, "resize": "fit" },
+          "small": { "w": 200, "h": 164, "resize": "fit" },
+          "large": { "w": 200, "h": 164, "resize": "fit" }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1288560306449416200,
+        "id_str": "1288560306449416192",
+        "indices": [25, 48],
+        "description": "dave grohl hair flip GIF",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EeHixYmWAAAcNFn.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeHixYmWAAAcNFn.jpg",
+        "url": "https://t.co/IbeXErjiwF",
+        "display_url": "pic.twitter.com/IbeXErjiwF",
+        "expanded_url": "https://twitter.com/heid_the_baw_/status/1288560313407885315/photo/1",
+        "type": "animated_gif",
+        "video_info": {
+          "aspect_ratio": [50, 41],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/EeHixYmWAAAcNFn.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": { "w": 150, "h": 150, "resize": "crop" },
+          "medium": { "w": 200, "h": 164, "resize": "fit" },
+          "small": { "w": 200, "h": 164, "resize": "fit" },
+          "large": { "w": 200, "h": 164, "resize": "fit" }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1596051693666"
+}
